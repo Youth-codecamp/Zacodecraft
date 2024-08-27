@@ -11,7 +11,7 @@ function App() {
         </section>
         <section className="Event-details">
           <h2>Event Details</h2>
-          <p><strong>Date:</strong> August 31, 2024</p>
+          <p><strong>Date:</strong> August 30, 2024</p>
           <p><strong>Time:</strong> 15:30 PM - 18:00 PM</p>
           <p><strong>Location:</strong>Masters Pizza KL House, KG 9 Ave, Kigali, Rwanda</p>
           <p>Join us for an evening of great pizza, coding fun, and community spirit. Meet other coders, share your projects, and enjoy delicious pizza!</p>

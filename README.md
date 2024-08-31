@@ -8,8 +8,8 @@ ZacodeCraft was an exciting event held on August 30, 2024, bringing together you
 
 ## Event Highlights
 
-![Event Banner](./assets/banner.png)  
-*The official banner for ZacodeCraft 2024*
+![banner](https://github.com/user-attachments/assets/75d75cd2-4b1e-4549-b2d7-5c28f73f509f)
+
 
 ### Event Details
 
@@ -23,11 +23,12 @@ ZacodeCraft provided a fantastic opportunity for 18 young coders to connect, sho
 
 Here are some highlights from the event:
 
-![Event Photo 1](./assets/image1.jpg)  
 
+![image1](https://github.com/user-attachments/assets/4adc830a-d437-4510-a691-b924e64e99a4)
 
-![Event Photo 2](./assets/image2.jpg)  
+ ![image2](https://github.com/user-attachments/assets/27d7c790-e66f-48d7-8108-8762dc73e4be)
 
-![Event Photo 3](./assets/image3.jpg)
+![image3](https://github.com/user-attachments/assets/fdc8596e-dc1b-4bf3-8c8f-aa9520e77b47)
 
-![Event Photo 4](./assets/image4.jpg)
+![image4](https://github.com/user-attachments/assets/1edfe356-07cd-4b3c-bb45-406db1c2badd)
+

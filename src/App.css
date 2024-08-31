@@ -87,12 +87,8 @@ footer p {
   margin: 0;
 }
 
-.Sponsor-link {
-  color: #ec3750;
-}
-
-.Sponsor-link:hover {
-  text-decoration: underline;
+.sponsor{
+  font-size: 18px;
 }
 
 @media (max-width: 768px) {
@@ -105,5 +101,51 @@ footer p {
     width: 100%;
     height: auto;
     object-fit: cover;
+  }
+}
+
+.Event-gallery {
+  margin: 20px 0;
+}
+
+.Gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.Gallery-image {
+  width: 300px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .Gallery-image {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+/* Additional responsive styles */
+@media (max-width: 480px) {
+  h2 {
+    font-size: 24px;
+  }
+
+  .Event-banner {
+    width: 100%;
+  }
+
+  .Event-details, .RSVP {
+    font-size: 16px;
+  }
+
+  button.RSVP-button {
+    font-size: 1rem;
+    padding: 10px 15px;
   }
 }
